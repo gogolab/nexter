@@ -32,12 +32,6 @@ body {
     color: $color-grey-dark-2;
     font-weight: 300;
     line-height: 1.6;
-
-    //proto
-    & > *:nth-child(2n-1) {
-        background-color: #ccc;
-    }
-    color: #000;
 }
 
 .container {
